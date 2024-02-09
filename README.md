@@ -1,6 +1,6 @@
 # nlw-expert
 
-#tecnologias utilizada
+## Tecnologias utilizadas
 - HTML
 - CSS
 - JavaScript
